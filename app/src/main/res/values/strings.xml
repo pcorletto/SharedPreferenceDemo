@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SharedPreferenceDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_text_view">Enter Your Message</string>
+    <string name="adjust_font_seekbar">Adjust Font Size</string>
+    <string name="font_color_radio_group">Select Font Color</string>
+    <string name="red_radio_button">Red</string>
+    <string name="blue_radio_button">Blue</string>
+    <string name="green_radio_button">Green</string>
+    <string name="save_button">SAVE SETTINGS</string>
+    <string name="clear_button">CLEAR SETTINGS</string>
+    <string name="PREF_FILE">APP_PREF_FILE</string>
+    <string name="FONT_SIZE">APP_FONT_SIZE</string>
+    <string name="FONT_COLOR">APP_FONT_COLOR</string>
+    <string name="TEXT_INFO">APP_TEXT_INFO</string>
+
+</resources>
